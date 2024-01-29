@@ -1,5 +1,7 @@
 <?php
 
+namespace Behavioral\Factory;
+
 class Worker
 {
     private string $_name;
